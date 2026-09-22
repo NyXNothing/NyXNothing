@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi Ganteng 
+
+![The Destroyer](img/anime-girl-white-hair-cyberpunk-sci-fi--8k-wallpaper-uhdpaper.com-198@0@k.jpg)
 
 <!--
 **NyXNothing/NyXNothing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+    - Mas ganteng
+    - On Mission
+    - Los Santos
+
+![Destroyer](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHg3ZHZ6YnFzdW52eHN4d2Z6MWF6N2t1aTY0eTA5emxicDN1czcwOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/igyfXHSWGHZME0PLvr/giphy.gif)
